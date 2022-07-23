@@ -2,143 +2,65 @@
 <h3 align="center">I'm a C# Developer From The Netherlands</h3>
 <h3 align="center">I Like automating thing</h3>
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugovg&count_private=true&show_icons=true&locale=en&layout=compact&theme=discord_old_blurple" alt="hugovg" />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugovg&show_icons=true&locale=en&theme=discord_old_blurple" alt="hugovg" /></p>
 
 
-- 🔭 I’m currently working on **Project C**
+- 🔭 I’m currently working on **Bakabot**
 
 - 💬 Ask me about **Birds**
 
-- ⚡ Fun fact **I Like Birds**
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p> -->
 
-<h2 align="center">Languages:</h2>
-<p align="center"> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank"
-        rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"
-        height="40" /> </a> 
-        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp" width="40" height="40" /> </a> 
-         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <a
-        href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" /> </a> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-            target="_blank" rel="noreferrer"> 
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a> 
-        <a href="https://kotlinlang.org" target="_blank"
-            rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin"
-            width="40" height="40" /> </a> 
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">   
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a> 
-        <a href="https://www.php.net" target="_blank"
-        rel="noreferrer"> 
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-            width="40" height="40" /> </a> 
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> 
-        <a href="https://www.rust-lang.org" target="_blank"
-            rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
-            alt="rust" width="40" height="40" /> </a> 
-        <a href="https://www.typescriptlang.org/" target="_blank"
-            rel="noreferrer"> 
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" /> </a>
-        
 
-<h2 align="center">Tools:</h2>
-<p align="center"> 
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
-            alt="azure" width="40" height="40" /> 
-            </a>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender"
-            width="40" height="40" /> </a> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3" width="40" height="40" /> </a> 
-    <a href="https://www.docker.com/" target="_blank"
-        rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-        alt="docker" width="40" height="40" /> 
-    <a href="https://www.figma.com/" target="_blank"
-            rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"
-            height="40" /> </a>
-    <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-     <a href="https://www.linux.org/" target="_blank"
-            rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-        width="40" height="40" /> </a> 
-     <a href="https://www.photoshop.com/en" target="_blank"
-            rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-        alt="photoshop" width="40" height="40" /> </a> 
-    <a href="https://postman.com" target="_blank"
-            rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
-        width="40" height="40" /> </a> 
-    <a href="https://www.adobe.com/products/xd.html"
-            target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd"
-            width="40" height="40" /> </a> </p>
-</p>
-
-<h2 align="center">Frame-Works:</h2>
-<p align="center"> 
-    <a href="https://dotnet.microsoft.com/" target="_blank"
-            rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-            alt="dotnet" width="40" height="40" /> </a> 
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a> 
-     <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"alt="xamarin" width="40" height="40" /> </a> 
-</p>
-
-<h2 align="center">Database:</h2>
-<p align="center"> 
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-    <img
-        src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" /></a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql" width="40" height="40" /> </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" /> </a> 
-</p>
 <br>
 
+<h1 align="center">Languages and framworks</h1>
+
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt="dotnetcore logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" width="52" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" width="52" alt="markdown logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="52" alt="materialui logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+</div>
+
+
+<br>
+
+<h1 align="center">Other programming related</h1>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visualstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" width="52" alt="vim logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" width="52" alt="digitalocean logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" width="52" alt="debian logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" height="40" width="52" alt="firefox logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" width="52" alt="xd logo"  />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&username=hugovg" height="150" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&username=hugovg" height="150" alt="languages graph"  />
+</div>
+<h1></h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hugovg&label=Profile%20views&color=0e75b6&style=flat&"
         alt="hugovg" /> </p>

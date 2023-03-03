@@ -1,69 +1,43 @@
 <h1 align="center">Hi 👋, I'm Hugo / Hogo</h1>
-<h3 align="center">I'm a C# Developer From The Netherlands</h3>
-<h3 align="center">I Like automating thing</h3>
-<br>
-
-
-- 🔭 I’m currently working on **Bakabot**
-
-- 💬 Ask me about **Birds**
-
-
-
-
-<br>
-
-<h1 align="center">Languages and framworks</h1>
-
+<h3 align="center">I'm a Developer From The Netherlands</h3>
+<h3 align="center">I like to use Reflections to solve most of my issues</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt="dotnetcore logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" width="52" alt="dot-net logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" width="52" alt="markdown logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" width="52" alt="materialui logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+<a href="https://wakatime.com"><img width=500 src="https://wakatime.com/share/@Hogo/63ff42e2-b871-45d5-946e-428ff3463c45.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Hogo/c001f2d2-b648-483b-91ea-3e5bd035f9c1.png" /></a>
 </div>
-
-
+<br>
+<h1 align="center">Daily tools, languages and frameworks: </h1>
+<div align="center">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/dotnet/512BD4" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/csharp/#239120" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/blazor/#512BD4" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/rider/#000000" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/markdown/#000000" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/obsidian/#483699" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/rabbitmq/#FF6600" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/github/#181717" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/githubactions/#2088FF" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/discord/#5865F2" />
+</div>
 <br>
 
-<h1 align="center">Other programming related</h1>
+<h1 align="center">Knowledge about / Worked with: </h1>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visualstudio logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" width="52" alt="vim logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" width="52" alt="digitalocean logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" width="52" alt="debian logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" height="40" width="52" alt="firefox logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" width="52" alt="xd logo"  />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/#00599C" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/#3178C6" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio/#5C2D91" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/vim/#019733" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/firefox/#FF7139" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/docker/#2496ED" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/grafana/#F46800" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/prometheus/#E6522C" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/#4479A1" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/albertheijn/#04ACE6" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/unity/#FFFFFF" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/digitalocean/#0080FF" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&username=hugovg" height="150" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&username=hugovg" height="150" alt="languages graph"  />
-</div>
-<h1></h1>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hugovg&label=Profile%20views&color=0e75b6&style=flat&"
-        alt="hugovg" /> </p>
-
-<p align="center"> <img
-            src="https://github-profile-trophy.vercel.app/?username=hugovg&column=7" alt="hugovg" /></a> </p>
